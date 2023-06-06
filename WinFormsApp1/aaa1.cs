@@ -9,5 +9,6 @@ namespace WinFormsApp1
     public class aaa1
     {
         public int aa { get; set; }
+        public int bbb { get; set; }
     }
 }
