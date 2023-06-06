@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WinFormsApp1
 {
-    internal class aaa1
+    public class aaa1
     {
+        public int aa { get; set; }
     }
 }
