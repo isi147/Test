@@ -10,5 +10,9 @@ namespace WinFormsApp1
     {
         public int aa { get; set; }
         public int bbb { get; set; }
+        public int asdasdasd { get; set; }
+        public int bbasdab { get; set; }
+        public int asdasd { get; set; }
+        public int asdasd { get; set; }
     }
 }
